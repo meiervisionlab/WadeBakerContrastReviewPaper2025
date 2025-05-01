@@ -1,8 +1,10 @@
 # Measuring contrast processing in the visual system using the steady state visually evoked potential (SSVEP)
 
-This is the github repository that accompanies the paper "Measuring contrast processing in the visual system using the steady state visually evoked potential (SSVEP)"
+This is the github repository that accompanies the paper:
 
-The paper is published here: (Link to final version on Vision Research Site to be updated).
+Wade, A.R. & Baker, D.H. (2025). Measuring contrast processing in the visual system using the steady state visually evoked potential (SSVEP). Vision Research, 108614.
+
+The paper is published here: https://doi.org/10.1016/j.visres.2025.108614
 
 An author's copy is available from here (Link to the compiled version on Github). 
 
