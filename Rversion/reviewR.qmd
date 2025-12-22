@@ -282,7 +282,7 @@ for (contrastIndex in 1:length(contrastRange)){
   initialSignal[contrastIndex] <- inputAmplitude
 
    # Now compute the FT on the signal after it has passed through a single non-linearity. Do this 
-   # using the transducer functiona above.
+   # using the transducer function above.
   transducedModulation <- simpleTransducerFunction(inputModulation, c50, RMax)
   FT_transducedModulation <- fft(transducedModulation)/ length(transducedModulation)
   transducedAmplitude <- abs(FT_transducedModulation[1 + inputFrequency_Hz*2])
